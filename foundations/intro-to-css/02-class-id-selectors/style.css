@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+.one {
+  background-color: rgb(173, 158, 174);
+  font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#id-one {
+  color: blue;
+  font-size: 36px;
+}
