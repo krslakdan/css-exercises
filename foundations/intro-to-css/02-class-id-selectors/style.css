@@ -1,7 +1,12 @@
 /* Add CSS Styling */
-.one {
+.one,
+.three {
   background-color: rgb(173, 158, 174);
   font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.three {
+  font-size: 24px;
 }
 
 #id-one {
