@@ -1,7 +1,6 @@
 /* Add CSS Styling */
-.one,
-.three {
-  background-color: rgb(173, 158, 174);
+.one {
+  background-color: #ad9eae;
   font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
 
@@ -10,6 +9,12 @@
 }
 
 #id-one {
-  color: blue;
+  color: rgb(0, 0, 255);
   font-size: 36px;
+}
+
+#four {
+  background-color: hsl(120, 73%, 75%);
+  font-weight: bold;
+  font-size: 24px;
 }
